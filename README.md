@@ -1,6 +1,21 @@
 
 <h3 align="center">I'm a MERN Stack developer</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
+
+<p align="left"> <a href="https://twitter.com/shadirmuhammedh" target="blank"><img src="https://img.shields.io/twitter/follow/shadirmuhammedh?logo=twitter&style=for-the-badge" alt="shadirmuhammedh" /></a> </p>
+
+- 🌱 I’m currently learning **WordPress**
+
+- 👨‍💻 All of my projects are available at [muhammedh-shadir](muhammedh-shadir)
+
+- 💬 Ask me about **MERN stack and related technologies**
+
+- 📫 How to reach me **muhammedhshadir@gmail.com**
+
+- ⚡ Fun fact **Football fanatic, Madridista**
+
 ###
 
 <div align="center">
