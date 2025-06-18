@@ -1,6 +1,5 @@
 <img src="https://github.com/Mandeep-7/Mandeep-7/blob/main/Banner/Banner.png" width="1000" height="300" alt="Banner">
 <h3 align="center">I'm a MERN Stack developer</h3>
-
 ###
 
 <div align="center">
