@@ -25,17 +25,15 @@
 
 ###
 
-<div align="center">
- 
-</div>
+
 
 ###
 
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mandeep-7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mandeep-7" />
-<br>
- <a href="https://www.linkedin.com/in/mandeep-kumar-2212a11b4/">
+<div align="left">
+  <a href="https://www.linkedin.com/in/mandeep-kumar-2212a11b4/">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a><br>
    <a href="https://www.instagram.com/mandeep_7_/">
@@ -43,7 +41,10 @@
    </a><br>
    <a href="mailto:mandeepkumar5320@gmail.com?subject=Collaboration%20Request">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-   </a> 
+   </a><br>
+</div>
+
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
