@@ -1,4 +1,4 @@
-<img src="https://github.com/Mandeep-7/Mandeep-7/blob/main/Banner/Banner.png" width="740" height="200" alt="Banner">
+<img src="https://github.com/Mandeep-7/Mandeep-7/blob/main/Banner/Banner.png" width="1000" height="200" alt="Banner">
 <h3 align="center">I'm a MERN Stack developer</h3>
 
 ###
