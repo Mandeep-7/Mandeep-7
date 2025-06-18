@@ -1,4 +1,4 @@
-<img src="https://github.com/Mandeep-7/Mandeep-7/blob/main/Banner/Banner.png" width="1000" height="300" alt="Banner">
+
 <h3 align="center">I'm a MERN Stack developer</h3>
 
 ###
@@ -39,10 +39,15 @@
 
 ###
 
+
+<div align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mandeep-7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mandeep-7" />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
+
+
 <div align="center">
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mandeep-7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mandeep-7" />
 
   <img src="https://github-profile-trophy.vercel.app?username=Mandeep-7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
