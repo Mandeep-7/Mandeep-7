@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [Mandeeep-7](Mandeep-7)
+- 👨‍💻 All of my projects are available at [Mandeep-7](Mandeep-7)
 
 - 💬 Ask me about **MERN stack and related technologies**
 
