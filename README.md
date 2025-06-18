@@ -38,15 +38,12 @@
 </div>
 
 ###
+
 <div align="center">
-<div align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mandeep-7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mandeep-7" />
-</div>
-<div align = "right">
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
-</div>
-
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Mandeep-7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
