@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN stack and related technologies**
 
-- 📫 How to reach me **MandeepKumar5320@gmail.com**
+- 📫 Backup Email **mandeepgames5320@gmail.com**
 
 - ⚡ Fun fact **Passionate about MMA**
 
