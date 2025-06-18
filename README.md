@@ -41,7 +41,7 @@
 
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mandeep-7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mandeep-7" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mandeep-7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mandeep-7" />
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
