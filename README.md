@@ -26,7 +26,9 @@
 ###
 
 <div align="center" width="300" height="115">
-
+  <a href="https://www.linkedin.com/in/mandeep-kumar-2212a11b4/">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
    <a href="https://www.instagram.com/mandeep_7_/">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
    </a>
@@ -38,10 +40,7 @@
 ###
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mandeep-7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mandeep-7" /><br>
-  <a align="left" href="https://www.linkedin.com/in/mandeep-kumar-2212a11b4/">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mandeep-7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mandeep-7" />
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
   <img src="https://github-profile-trophy.vercel.app?username=Mandeep-7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
